@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Botond Kun
 
-# Your Github username
+# Your Github botkun222
